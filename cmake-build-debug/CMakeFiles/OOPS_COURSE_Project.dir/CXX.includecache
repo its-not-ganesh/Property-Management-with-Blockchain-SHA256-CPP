@@ -1,0 +1,222 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/Adhaar.h
+ctime
+-
+vector
+-
+string
+-
+iostream
+-
+conio.h
+-
+
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/Block.h
+ctime
+-
+vector
+-
+string
+-
+iostream
+-
+conio.h
+-
+sha256.h
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/sha256.h
+errorException.h
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/errorException.h
+Date.h
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/Date.h
+Adhaar.h
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/Adhaar.h
+
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/BlockChain.h
+ctime
+-
+vector
+-
+string
+-
+iostream
+-
+conio.h
+-
+sha256.h
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/sha256.h
+errorException.h
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/errorException.h
+Date.h
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/Date.h
+Adhaar.h
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/Adhaar.h
+
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/Date.h
+ctime
+-
+vector
+-
+string
+-
+iostream
+-
+conio.h
+-
+
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/Person.h
+ctime
+-
+vector
+-
+string
+-
+iostream
+-
+conio.h
+-
+sha256.h
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/sha256.h
+errorException.h
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/errorException.h
+Date.h
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/Date.h
+Adhaar.h
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/Adhaar.h
+
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/Property.h
+ctime
+-
+vector
+-
+string
+-
+iostream
+-
+conio.h
+-
+sha256.h
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/sha256.h
+errorException.h
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/errorException.h
+Date.h
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/Date.h
+Adhaar.h
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/Adhaar.h
+
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/Property_Db.h
+ctime
+-
+vector
+-
+string
+-
+iostream
+-
+conio.h
+-
+sha256.h
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/sha256.h
+errorException.h
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/errorException.h
+Date.h
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/Date.h
+Adhaar.h
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/Adhaar.h
+
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/SuperUser.h
+ctime
+-
+vector
+-
+string
+-
+iostream
+-
+conio.h
+-
+sha256.h
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/sha256.h
+errorException.h
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/errorException.h
+Date.h
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/Date.h
+Adhaar.h
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/Adhaar.h
+
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/TransactionData.h
+ctime
+-
+vector
+-
+string
+-
+iostream
+-
+conio.h
+-
+sha256.h
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/sha256.h
+errorException.h
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/errorException.h
+Date.h
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/Date.h
+Adhaar.h
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/Adhaar.h
+
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/errorException.h
+ctime
+-
+vector
+-
+string
+-
+iostream
+-
+conio.h
+-
+
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/main.cpp
+ctime
+-
+vector
+-
+string
+-
+iostream
+-
+conio.h
+-
+sha256.h
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/sha256.h
+errorException.h
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/errorException.h
+Date.h
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/Date.h
+Adhaar.h
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/Adhaar.h
+Person.h
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/Person.h
+Property.h
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/Property.h
+TransactionData.h
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/TransactionData.h
+Block.h
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/Block.h
+BlockChain.h
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/BlockChain.h
+Property_Db.h
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/Property_Db.h
+SuperUser.h
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/SuperUser.h
+
+D:/College/4th Sem/OOPS C++/OOPS_COURSE_Project/sha256.h
+string
+-
+
