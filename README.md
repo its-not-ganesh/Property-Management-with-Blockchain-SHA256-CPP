@@ -9,6 +9,6 @@ In this project there are 11 class which are "sha256", "errorException", "Date",
  Preferably use any IDE with Cmake where the project can be run directly, if using any other ide configure the files and run th main.cpp file.
  
  <h3>Terminal interface with choices</h3>
- 
+ ![Capture](https://user-images.githubusercontent.com/44310129/120598351-cb817f00-c463-11eb-992b-c143bec5565e.JPG)
 
  
